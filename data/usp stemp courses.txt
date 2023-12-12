@@ -1,0 +1,1441 @@
+School of Information Technology, Engineering, Mathematics, and Physics (STEMP)
+
+Course Descriptions
+Note: UU100 and UU114 must be passed, in addition to prerequisite requirements, before students progress to the 200-level courses. UU200 and UU204 must be passed, in addition to prerequisite requirements, before students progress to the 300-level courses. Only approved programmes may be exempt from this requirement.
+ 
+
+CS001            Foundations of Professional Practice (FPP)
+
+Prerequisites: UU100A
+
+Semester 1: B at L                                                            Semester 2: F at L
+
+This course provides a practical and theoretical introduction to what it means to be an ICT professional. The course will be offered from the second year to the fourth year of the BNS and BSE programmes and will build on and utilize e-Portfolio that the students produce in their first year. Students will gain a contextual understanding of the many roles within the ICT profession, their own particular capabilities profile, and the additional capabilities they might require to achieve a desired professional role. Students will be required to attend various workshops to broaden their understanding of the course. Each student will be assigned to a mentor who will provide guidance to the students to identify and address their individual learning and development needs.
+
+CS111            Introduction to Computing Science                        
+
+Prerequisites: at least 50% in Year 13/Form 7 Mathematics or equivalent
+
+Semester 1: F at L and O at C                                       Semester 2: F at L and O at C
+
+An introduction to computing programming language hierarchy (machine assembly, high-level) and basic computer organisation (I/O, main storage, secondary storage and CPU),problem solving and algorithms using a modern high level language.. A contemporary programming language will be used as a tool for problem solving. No assumptions are made about the computing knowledge required prior to the course. However essential knowledge about the Personal Computer, the Windows operating system and the programming environment will be provided in the first few weeks of the course.
+
+CS112            Data Structures & Algorithms
+
+Prerequisites: CS111
+
+Semester 1: Not offered                                                Semester 2: F at L and B at C
+
+This course  provides the necessary skills in the development of software applications via C++ programming language. However, the knowledge acquired can be applied to develop a software application independent of the programming language. In this course students will learn the syntax, logic and operation of fundamental data structures like arrays, queues, stacks and trees. Some common operations include basic algorithms like searching, sorting and recursion. Students will be able to appreciate the importance of developing software in computationally efficient way by choosing appropriate data structures and algorithms. This course focuses on the development of software using the object oriented paradigm.
+
+CS140            Introduction to Software Engineering                   
+
+Prerequisites: None
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+The course will provide the basic foundations for software Engineering. The course covers topics from the phases of software development life cycle and software models.  The requirement elicitation techniques, software design, software testing techniques and software development models are covered in this course. Upon completion of the course students should be able to have a basic understanding of each of the phases in a software development life cycle
+
+CS150            Introduction to Computer Networks & Security                        
+
+Prerequisites: None
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course introduces the fundamentals of computer networks and security. It covers the basics of computer organisation, operating system components, networking topologies and network operations. It includes the concepts of security goals, introduces the ways to keep modern computer systems and networks safe from common security threats.
+
+CS211            Computer Organisation                                              
+
+Prerequisites: CS111
+
+Semester 1: F at L and B at C                                       Semester 2: Not offered
+
+This course provides an overview of computer systems and architecture. It covers  data representation, digital logic circuits, micro architecture and instruction set architecture, operating systems, assembly and machine language programme.
+
+CS214            Design & Analysis of Algorithms                              
+
+Prerequisites: CS112
+
+Semester 1: Not offered                                                Semester 2: F at L and B at C
+
+This course provides an overview of the various fundamental algorithms like dynamic programming, divide and conquer and greedy approach used in sorting, searching and optimization problems. The key issues in algorithms like choice of appropriate data structures, time complexity and computability are also discussed in the course.
+
+CS215            Computer Communications & Management
+
+Prerequisites: CS111 and (CS150 for BNS programme)
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course introduce the fundamental principles ofcomputer  communication and networking, with a focus on the network interface and Internet layers of the TCP/IP protocol stack. This course also covers access control, wireless network components, routing protocols, subnetting, network security and management.
+
+CS218            Mobile Computing                                                       
+
+Prerequisites: CS112
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+Mobile Computing is a growing trend due to the increasing number and usage of devices that can be used to access information regardless of location. This course provides a comprehensive overview of mobile computing systems focusing on mobile telephony, data networks, wireless networks and infrastructure and the design and implementation of mobile computing applications.  This course will also provide students hands-on experience on at least one mobile application development framework.
+
+CS219            Cloud Computing                                                          
+
+Prerequisites: CS112
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+The course deals with cloud computing and its various services. Issues such as privacy, security and common standards and user accessibility in cloud computing will also be discussed. Cloud deployment models, shared computing resources like software, hardware infrastructure and platform to users on demand are included in this course.
+
+CS230            Requirements Engineering                                        
+
+Prerequisites: CS111 and (CS140 for BSE programme)
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+The course would introduce the various requirement elicitation techniques used in software engineering. The requirement identification, analysis, validation and prioritisation will also be discussed in the course. The students will prepare software requirement specification and perform initial software design in the course. Upon completion of the course student should be able to identify suitable requirement gathering techniques suitable for software projects.
+
+CS241            Software Design & Implementation                       
+
+Prerequisites: CS112 and CS230
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course focuses on the design & implementation phases of the software development lifecycle. Basic concepts of design, testing, and enabling techniques will be reviewed. Approaches to ensuring quality in design will be emphasized as well as the need for systematic documentation. The implementation section will be covered during the laboratory sessions using a project based on an appropriate software development methodology. This will enable both large and smaller scale methodologies to be covered.
+
+CS310            Computer Networks                                                    
+
+Prerequisites: CS211
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+Students will be introduced to the fundamental concepts and underlying technologies associated with modern computer networks The main focus of the course is based around the Transmission Control Protocol and Internet Protocol (TCP/IP). The network and transport layers and functions are discussed in detail with particular attention to Internet Protocol addressing and routing.
+
+CS311            Operating Systems                                                       
+
+Prerequisites: CS211
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course  provides an overview of architecture of different operating systems such as UNIX, Windows, IOS and Android. This course includes resource allocation and optimization, process and thread management, coordination and scheduling, virtual and real memory management, disk schedulers and file management. The students will able to understand the functionality and services provided by the operating system.
+
+CS317            Computer & Network Security                                 
+
+Prerequisites: CS215
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course provides an introduction to computer security. The course covers cryptography, cryptanalysis and systems security topics. Topics will include network security,  security protocol design and analysis, network attacks and mitigation, privacy and other emerging topics.
+
+CS324            Distributed Computing 
+
+Prerequisites: either CS218 or CS219 or CS214 or CS215
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course gives an overview of distributed system  its application on web and databases. Some of the topic covered in the course include Distributed Objects, Interprocess Communications and Multi-tier Architecture.   The course also covers the applications of the distributed systems such as file sharing, information dissemination, content delivery networks and publish/subscribe systems.
+
+CS341            Software Quality Assurance & Testing                  
+
+Prerequisites: CS241
+
+Semester 1: Not Offered                                                Semester 2: F at L
+
+Software verification and validation uses both static and dynamic techniques of system checking to ensure that the resulting program satisfies its specification and that the program as implemented meets the expectations of the stakeholders.  Students learn the uniqueness of assuring adequate quality with software both as a product and process. The course also focuses on the metrics associated with quality assurance and the pragmatics of testing using a variety of testing tools. The students are introduced to writing software quality plans and associated risk assessments with case studies.
+
+CS350            Wireless Networks                                                       
+
+Prerequisites: CS215
+
+Semester 1: Not Offered                                                Semester 2: F at L
+
+This course gives students a fundamental understanding of wireless communications. It covers in-depth the protocols, the transmission methods, and different contemporary wireless networking standards. It also provides students with experience in the state-of-the-art and emerging wireless communication technologies.
+
+CS351            Network Design & Administration                         
+
+Prerequisites: CS310
+
+Semester 1: Not Offered                                                Semester 2: F at L
+
+This is an advanced course on computer networking. This course prepares students to address real-life problems in networking within an organization. This course provides in-depth coverage on system administration and maintenance that is required in an operational environment. It also enables them to understand day to day activities that a network professional need to perform to ensure the continuity of network systems and make them resilient.
+
+CS352            Cybersecurity Principles                                             
+
+Prerequisites: Admission to BSE or BNS programme
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+The course would provide basic knowledge on the various Information assurance practices and techniques. An overview of the various cybersecurity threats in the modern era and the defensive controls required to mitigate those threats are also covered in the course. An introduction to the risk management strategies are also discussed in this course. The course provides the foundations for cybersecurity to managers, executives and other professional level decision makers with technical or non-technical background. Necessary foundations to understand the threats of cybersecurity for government organisations, commercial or non-profit organisations would be provided.
+
+CS400            Industry Experience Project                                      
+
+Prerequisites: Completion of all 100,200,300 and 400 level courses and two-third of CS001
+
+Semester 1: Not Offered                                                Semester 2: F at L
+
+This is a capstone course of the BNS and BSE programmes.  The aim of this course is to provide final year students with an environment in which they can develop as per Skills Framework for Information Age (SFIA) their generic and professional skills. Students will apply their acquired skills on a real – life ICT project. Projects will be provided by clients from ICT industry in the Pacific region, including small and medium enterprises (SMEs), or community organizations and NGOs.
+
+CS401            Cybersecurity Principles                                             
+
+Prerequisites: Admission into Postgraduate Diploma in Cyber Security
+
+Semester 1: B at L                                                            Semester 2: Not offered
+
+The course would provide basic knowledge on the various Information assurance practices and techniques. An overview of the various cybersecurity threats in the modern era and the defensive controls required to mitigate those threats are also covered in the course. An introduction to the risk management strategies are also discussed in this course. The course provides the foundations for cybersecurity to managers, executives and other professional level decision makers with technical or non-technical background. Necessary foundations to understand the threats of cybersecurity for government organizations, commercial or non-profit organizations would be provided.
+
+CS402            Cybercrime                                                                      
+
+Prerequisites: CS401
+
+Semester 1: Not Offered                                                Semester 2: B at L
+
+This course provides an overview of the various risks, threats and vulnerabilities prevalent in organisations. The various measures to overcome those risks and threats to prevent cybercrimes are also covered in the course. Various security issues and concepts like web security, authentication and encryption are covered in detail. An understanding of the various tools and strategies to secure the network are also covered. Students will also be introduced to incident analysis and response with scenarios and case studies.
+
+CS403            Cyber Defense: Governance & Risk Management                     
+
+Prerequisites: CS401 or admission into BNS or BSE and CS352 and 75% completion of 300 Level courses
+
+Semester 1: B at L                                                            Semester 2: Not Offered
+
+The course aims to provide operational aspects of Cybercrime with particular focus on the implementation of the governance policies. Analysing the key information systems, their choice for organisation and how security can be assured the management systems will also be covered. The information systems strategies and their scope and purpose in governance for them are covered in detail. The course also focuses on the various risks related to the information systems, managing the risk of cyberattacks and how various risk management policies relevant to the organisations can be applied with emphasis on e-commerce and e-health.
+
+CS404            Network Security Operations                                   
+
+Prerequisites: CS401
+
+Semester 1: Not Offered                                                Semester 2: B at L
+
+This course provides students with a detailed understanding of the various risks that needs to be addressed in a networked environment. A detailed analysis of various defence mechanisms against threats is part of this course. Various policies that are in practice to mitigate threats and their effectiveness are covered in the course. The course will have both theoretical knowledge and practical hands-on experience on various threats and ways to mitigate them in a network.
+
+CS412            Artificial Intelligence
+
+Prerequisites:     Admission into Postgraduate Diploma or admission into BNS or BSE and 75% completion of 300 Level courses
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course covers different areas of Artificial Intelligence such as data science, machine learning, optimization, robotics, and pattern recognition. The course will involve readings of seminal and relevant research papers, paying particular attention to the algorithms and key results. The discussions in the course will also include the following topics: Evolutionary computation, Neural network and Fuzzy logic.
+
+CS415            Advanced Software Engineering
+
+Prerequisites:     Admission into Postgraduate Diploma or admission into BNS or BSE and 75% completion of 300 Level courses
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+The objective of the course is to introduce students to advanced theory, techniques and applications of software design, management, measurement, metrics and testing. Software design, management and testing are essential in software engineering because they allow quality assessment and improvement of the processes and products. By measuring various characteristics of software and development processes, information can be obtained in order to understand, control and improve software and development processes.
+
+CS424            Big Data Technologies
+
+Prerequisites:     Admission into Postgraduate Diploma or admission into BNS of BSE and CS324 and 75% completion of 300 Level courses
+
+Semester 1: F at L                                                            Semester 2: F at L
+
+This course givesstudent the fundamental knowledge of big data and their primary sources. It covers the contemporary distributed technologies associated with big data. It has in-depth coverage of Hadoop Ecosystem components, Spark framework and a few column-based distributed database management systems such as HBase and Cassandra. It also includes project to solve a real-life big data problem.
+
+CS427            Mobile Communications                                            
+
+Prerequisites: Admission into Postgraduate Diploma
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+Mobile communications is a core body of knowledge in computing science studies. In today`s world mobile communications is seen as a driver of change in scientific and business activity. This course provides an adequate knowledge to mobile communications. It will investigate and evaluate the applications of mobile communications. It will investigate and evaluate the applications of mobile communications. In this class we will study the principles behind the most current developments in mobile communications.
+
+CS600F          Computing Science SRP (Full-Time)                                                                        
+
+ CS600P          Computing Science SRP (Part-Time)
+
+CS700F          Computing Science Master’s Thesis (Full-Time)                                                     
+
+CS700P          Computing Science Master’s Thesis (Part-Time)
+
+CS750F          Computing Science DRP (Full-Time)
+
+CS750P          Computing Science DRP (Part-Time)                                                   
+
+CS800F          Computing Science PhD Thesis (Full-Time)                                            
+
+CS800P          Computing Science PhD Thesis (Part-Time)          
+
+CV203          Engineering Survey                                                    
+
+Prerequisites: MA112 and MM101
+
+Semester 1: Not offered                                                           Semester 2: F at L
+
+The inclusion of the Engineering course will promotes students’ knowledge and skills in the sub-discipline of surveying – including the ability to select and operate basic and specialised surveying equipment appropriate to specific engineering tasks.
+
+Students learn to perform an engineering survey and critically analyse survey data results to inform subsequent design and construction considerations. The development of survey practices from their origins to contemporary contexts is also addressed. Students work in small teams to carry out eight fieldwork projects drawn predominantly from the areas of building and road engineering. Each survey project involves project analysis, calculations, practical use of surveying equipment and project evaluation.
+
+Topics include: Surveying reference and basic computations; Mapping, Vertical measurement and note keeping; Angular measurement and note keeping; Circular curves, Contours and Contouring; Area computations for polygons; Rectangular co-ordinates; Computations for earth works; Digital terrain models; Geographic positioning systems; and the land title system
+
+ 
+
+CV211            Solid Mechanics 1                                                       
+
+Prerequisites: MA112 and MM103
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This aims at equipping the students with the knowledge and skills of understanding deformation materials undergo during externally applied forces. The course first builds up on the topics Centroids and Centres of Gravity and then introduces students to the concepts of stress and strain. It then concentrates on deformations during torsion and bending. Stresses in Beams and Columns together with a topic in energy methods are covered.
+
+CV212            Metallurgy & Material Science                               
+
+Prerequisites: MM103
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course aims at equipping the students with skills required for understanding the various properties of metals and other materials and their applications in engineering practice. This course is intended to provide the students with a strong fundamental knowledge and some practical skills of  metallurgy and material science.
+
+CV222            Fluid Mechanics                                                           
+
+Prerequisites: PH102 and MA111 or MA112
+
+Semester 1: Not offered                                                 Semester 2: Not offered
+
+This course introduces the students to the sciences that deal with the behaviour of fluid in both static and dynamic conditions. This course is designed to enable the student to analyse any practical system in which fluid is the working medium. Fluid mechanics deals with a study of the behaviour of fluids at rest or in motion and the interaction of fluids with solids or with other fluids at the boundaries.
+
+CV311            Geotechnical Engineering                                        
+
+Prerequisites: MM212
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+The aim of this course is to teach students about the mechanical behavior of soil, composition of x=soil, water content, water flow in soil, seepage, strength, effective stress, compaction, applications in civil and environment engineering, soil and rock slope stability, earth pressures on soil retaining structures and design of retaining walls, bearing capacity of shallow foundations and magnitude and rate of the consolidation settlement.
+
+CV312            Solid Mechanics 2                                                       
+
+Prerequisites: CV211
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course teaches the fundamentals of analysing stress and deformation in solids under complex loading associated with structures/elements in mechanical engineering. At the end of this course students will be able to understand and apply the fundamental principles of solid mechanics and the basic methods of stress, strength, and deformation analysis of a solid structure and/or element in relation to a design. By completing this course, students will gain the ability to: conduct strain analysis, use compatibility equations, do elastic and plastic analyses, describe boundary conditions for complex engineering problems, and use energy methods for stress and deformation analysis. Students will also be introduced to: plates and shells and how to conduct plate and shell structural analysis; stress concentration analysis and its relation to fracture and service life of a component/ structure and finally finite element method is introduced and used for stress  and deformation analysis.
+
+CV313            Hydrology & Coastal Engineering                          
+
+Prerequisites: MM222 or CV222
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+The aim of this course is to teach students about the hydrologic processes and measurements, groundwater process and modelling, well hydraulics and design, storm/ drought risk analysis/ yield hydrology, determination of design rainfall intensity, flood hydrology and river and coastal hydrology. The course then covers topics in coastal engineering mainly focussing on the design of coastal structures.
+
+CV321            Foundation & Pavement Design                            
+
+Prerequisites: CV311
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+The aim of this course is to teach students about the foundation and pavement design and covers topics such as pile foundations, residential and lightly loaded foundations, high-rise and heavy construction foundation, causes of foundation problems, foundation repair procedures, preventative maintenance, foundation failures and repair. The course then covers topics in pavement design and analysis, pavement management, solid, semi-solid and non-rigid pavements, asphalt technology and concrete pavement.
+
+CV322            Hydraulic Engineering                                               
+
+Prerequisites: CV313
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+The aim of this course is to teach students about the principles of fluid flows, open channel flows, hydraulic machines, pipeline systems: design of series, parallel and branched pipeline system, design of pumping mains, pressure surge in pipelines and hydraulic structures: weir design, flumes, spillways.
+
+CV323            Design of Concrete Structures                                
+
+Prerequisites: MM312 or CV312
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+The aim of this course is to teach students about the concrete structures and covers topics such as introduction to concrete design, loads, design codes, flexural analysis and design of beams, shear in beams, bond, anchorage, development length, analysis and design of one and two way slabs, overview of prestressed concrete and design of reinforced concrete structures.
+
+CV324            Construction (Roads & Marine Application)      
+
+Prerequisites: CV311
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+The aim of this course is to teach students about the road and marine application design and construction. Topics include road body, drainage, properties of earth, earthworks and foundation bearing capacity tests, road construction materials: properties, use, testing, technology, construction process of asphalt and cement≠ concrete roads, design principles and assessment of road construction, fundamentals of mechanics and failure of roads and road maintenance. Further, the course builds on the design, planning, construction and management of bridges and other marine structures.
+
+CV461                      Design of Timber Structures (Credit Points: 7.5)
+
+Prerequisites: CV323
+
+Semester 1: F at L                                                Semester 2: Not offered
+
+The aim of this course is to teach students about the timber as a structural material, behavior, properties, preservation, grading of timber with respect to mechanical properties, design aspects of timber, timber beam and column design, timber pedestrian and vehicle bridges, design of timber pole structures, retaining walls, floor systems and joints and structural assemblies.
+
+CV462            Water & Wastewater Engineering                        
+
+Prerequisites: CH205
+
+Credit points: 7.5
+
+Semester 1: Not offered                                                Semester 2: Not Offered
+
+The aim of this course is to teach students about the chemical and biological concepts, microorganisms in water and water quality, water and wastewater treatment, quality parameters typically used to characterise wastewater, physical-chemical treatment processes, biological wastewater treatment, classes of treated wastewater, emerging technologies for advanced wastewater treatment and water recycling, sludge disposal and design of water and wastewater treatment plants.
+
+CV463                      Cyclone Resistant Design & Disaster Resilience               (Credit Points: 7.5)
+
+Prerequisites: CV461
+
+Semester 1: Not offered                                                Semester 2: Not Offered
+
+The aim of this course is to teach students about the wind engineering as related to tropical cyclones, impact, response, recovery and lessons learnt, disaster damage mitigation and risk modelling, disaster resilient designs, sustainable housing solutions, sustainable housing reconstruction and urban resilience. The course addresses the major issues of disaster resilience and risk reduction for natural hazards (cyclones, earthquakes), equipping the student with the applicable skills to confidently solve complex problems in high pressure environments. A holistic approach is developed to disaster management, and provides the knowledge needed to plan frameworks, create policies, and device solutions. A compulsory component of this programme is a research project, to demonstrate the critical thinking and analytical skills needed to independently approach a real-world issue in a disaster setting.
+
+CV464 Geographic Information System     (Credit Points: 7.5)
+
+Prerequisites: CV311
+
+Semester 1: F at L                                                                      Semester 2: Not offered
+
+This course introduces the hardware and software components of a Geographic Information Systems and reviews GIS applications. Topics include data structures and basic functions, methods of data capture and sources of data, and the nature and characteristics of spatial data and objects. Upon completion, students should be able to identify GIS hardware components, typical operations, products/applications, and differences between database models and between raster and vector systems.
+
+CV481        Professional Engineering & Project Management     (Credit Points: 7.5)
+
+Prerequisites: Successful completion of all 100 and 200 Level courses and any six out of following eight: CV312, EV301, CV311, CV313, CV321, CV322, CV323,  or CV324.
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course equips the students with the knowledge and appreciation of the roles and responsibilities of professional engineers in the society. Topics that will be covered in this course include responsibility, honesty, integrity and reliability in professional practice; safety, risk and liability; role of engineers in addressing ecological concerns, engineering issues in the South Pacific, role of SPEA; rights of engineers; skills of writing complex professional documents and contract law..
+
+CV488 Project 1    (Credit Points: 7.5)
+
+Prerequisites: Successful completion of all 100 and 200 Level courses,   and CV312,  EV301,
+
+CV311,   CV313,  CV321,   CV322,  CV323,  CV324.
+
+Semester 1: F at L Semester 2: Not offered
+
+The fourth year engineering project is an opportunity for students to conduct a definitive piece of independent research and/or development in an environment and manner that utilizes their learnt skills and knowledge to develop further their engineering research skills. With the guidance of a staff supervisor, students will define a research/development question, identify its foundation in our existing knowledge, recognize or develop the skills/tools required to investigate the question, apply scientific methods to explore the problem in a methodical fashion, analyse and present results in clear, concise and structured reports, posters, and oral presentations. Students must be able to demonstrate satisfactory progress in Project I in order to complete their work in Project II.
+
+CV491                      Water Management (Credit points: 7.5)
+
+Prerequisites: CV322
+
+Semester 1: Not Offered                                               Semester 2: F at L
+
+The aim of this course ls to teach students about the assessment to water resources, water resources planning, economics of water resources systems, management of water resources systems, water demand management and river basin modelling. This course is intended to provide the students with a strong fundamental knowledge and some practical skills of water management
+
+CV492            Construction Technology & Management          
+
+Prerequisites: CV324
+
+Credit points: 7.5
+
+Semester 1: Not Offered                                               Semester 2: F at L
+
+The aim of this course is to teach students about the construction technology, construction methods andmachinery, construction planning and management, construction estimation, construction contracts and specifications, organizing construction, site visit and site diary, pacific contexts of construction management, risk management, safety in construction, inspection and quality control, construction management financial and accounting principles.
+
+CV493                      Design of Steel Structures        (Credit Points: 7.5)
+
+Prerequisites: CV323
+
+Semester 1: Not offered                                                Semester 2: Not offered
+
+The aim of this course is to teach students about the steel structures and covers topics such as load tracking, design actions, code requirements, design of structural steel structures, design of large, multi-storey steel structural frames, design of concrete/steel slabs, columns and beams.
+
+CV494                      Advanced Road Engineering & Construction (Credit Points: 7.5)
+
+Prerequisites: CV492 and EV302
+
+Semester 1: Not offered                                                Semester 2: F at C
+
+The course aims to provide basic knowledge in the design, dimensioning, construction and management of transportation infrastructures such as roads, railways and airports. Particular attention will be given to functions of movement and access to land (natural and as-built), to the safe interaction with vehicles/aircraft and, more generally, to expected performance levels from the functional and structural point of view. The content and the methodology of the course are consistent with those used in similar courses in an international context. In particular, as roads and pavements form a large component of the national investment in infrastructure, the course will address their efficient design and construction to minimize the long-term lifecycle costs, including operation, maintenance, management and renewal of these major physical assets.
+
+CV495            Advanced Hydrology      (Credit Points: 7.5)       
+
+Prerequisites: CV322
+
+Semester 1: Not offered                                                        Semester 2: Not offered
+
+This course covers advance level of subsurface flow and transport, emphasizing the role of groundwater in the hydrologic cycle, the relation of groundwater flow to geologic structure, and the management of contaminated groundwater. The course will cover the following topics: Darcy equation, flow nets, mass conservation, the aquifer flow equation, heterogeneity and anisotropy, storage properties, regional circulation, unsaturated flow, recharge, stream-aquifer interaction, well hydraulics, flow through fractured rock, numerical models, groundwater quality, contaminant transport processes, dispersion, decay, and adsorption. It includes laboratory and computer demonstrations.
+
+CV496                Special Topics in Civil Engineering (Credit Points: 7.5)
+
+Prerequisites: Completion of all 100, 200 and 75% of 300 Level engineering courses
+
+Semester 1: Not offered                                                           Semester 2: F at L
+
+This course provides topics of special interest in Civil Engineering, which may vary each time the course is offered. This course provides in-depth study on recent development in the field of civil engineering and is intended to broaden the student’s exposure to the civil engineering discipline
+
+The course will cover the following topics: The topics will be in one or more areas of Geotechnical Engineering, Water and Sanitation engineering, Road and Transport Engineering, Structural Engineering and Surveying. The specific topics and the detailed contents will be decided by the Course Coordinator at the time of offering this course and will be made available on the School website
+
+CV499 Project 2
+
+Prerequisites: CV488
+
+Credit points: 7.5
+
+Semester 1: Not offered                                                                 Semester 2: F at L
+
+The fourth year engineering project is an opportunity for students to conduct a definitive piece of independent research in an environment and manner that utilises their learnt skills and knowledge to develop further their engineering research skills. With the guidance of a staff supervisor, students will define a research question, identify its foundation in our existing knowledge, recognise or develop the skills/tools required to investigate the question, apply scientific methods to explore the problem in amethodical fashion, and analyse and present results in clear, concise and structured reports, posters, and oral presentations.
+
+EE102            Fundamentals for Electrical & Electronics Engineering
+
+Prerequisites: MA111 and PH102
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course provides the basic fundamentals for electrical and electronics engineering. The course covers: electromagnetic fields and magnetic circuits, the basic laws of circuit theory, analysis of DC and AC circuits, two port networks, 3 phase circuits, electric energy and power, polyphase systems, and measurements of electrical quantities.
+
+EE211            Electrical Machines                                                    
+
+Prerequisites: EE102 and MA112
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This is an introductory course in electrical engineering that deals with electrical to mechanical energy conversion and vice-versa. Here concepts about electrical machines and their performance in a high power system are developed. Electrical machines covered in this course are transformers, electric motors (Induction, Synchronous and DC) and synchronous generators. A new genre of machines, the variable reluctance machines (or stepping motors) will also be studied. An introduction to motor controllers will also be made in this course.
+
+EE212            Analogue Electronics 1                                              
+
+Prerequisites: EE102
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course provides an introduction to the study of Analog Electronics. The first section of the course is essentially devoted to Fundamentals of Analog Devices and Circuits. The next section primarily covers operational amplifiers and their applications. Finally the students are introduced to basic trouble shooting and measurement skills. Topics include: Diode Applications and Special Purpose Diodes, Bipolar Junction Transistors, BJT Bias Circuits and Amplifiers, Field-Effect Transistors, FET Amplifiers and Switching Circuits, Introduction to Op-Amp Circuits, Introduction to Filters, Introduction to Oscillators, CAD, and Electronic System Maintenance.
+
+EE222            Digital Logic Design                                                    
+
+Prerequisites: EE102, and either MA112 or  MA161
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+Digital electronic devices and equipment are widely used not only in industry, but also in offices and homes. It is important that technologists and engineers not only understand the principles of digital circuits, but also be able to design digital circuits. Indeed the best way of learning about digital circuits is by learning to design these circuits. Thus the focus of this course is on the design of combinational and sequential logic circuits based on MSI and LSI devices.
+
+EE224            Signals & Systems                                                       
+
+Prerequisites: EE102 and MA211
+
+Semester 1: Not offered                                             Semester 2: F at L
+
+This subject covers the basic concepts and theories in the field of signals and systems. It covers fundamental topics in signal and systems such as continuous-time signals, continuous-time systems, discrete-time signals, Fourier transformation, Laplace transformation and introduction to filters. The laboratory component in this subject is based on the MATLAB software.
+
+EE225            Analog Electronics 2                                                   
+
+Prerequisites: EE212
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course considers advanced analog circuit analysis and design techniques. It builds upon basic knowledge of analog electronics taught in the pre-requisite course, taking the students through to a reasonable level of analysis and design proficiency. Circuit intuition and a systems approach to design are emphasised. Topics to be covered include: operational amplifier and data-converter circuits, building blocks of integrated-circuit amplifiers, differential and multistage amplifiers, frequency response, feedback, output stages and power amplifiers, filters and tuned amplifiers, signal generators and waveform-shaping circuits.
+
+EE312            Control System Engineering                                    
+
+Prerequisites: EE224
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course provides an understanding of the components used in process control, the fundamental principles of process dynamics, and classical feedback control. The course is structured as a first course in control systems. It will take the student through topics such as: transducers (sensors), actuators, processes and plants, transfer functions, system specifications, stability of feedback control systems, and the design of controllers and compensators using root locus, Bode plot and Nyquist plot techniques.
+
+EE313            Microprocessor Applications                                  
+
+Prerequisites: EE222
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course builds on the foundation provided by the course EE222 Digital Electronics and provides the student with the knowledge of the internal organisation of microprocessors and computer buses. The principles of operation of digital computers and the interfacing techniques needed to use microprocessors in engineering applications involving data acquisition are covered.
+
+EE314            Electrical Engineering Design                                    
+
+Prerequisites: Successful completion of ALL 100 and 200 Level courses and PH302, and success completion of any two from: EE312 or EE313 or EE321 or EE323 or EE325 or EE326
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course will enable prospective engineers to develop engineering design skills by taking them through a journey of identifying the problem or the need and applying scientific, engineering and mathematical knowledge from their major, and combining them with the knowledge of the society to devise solutions. Students will also be exposed to engineering regulations, standards, codes of practice, and ethics and fundamentals of project planning and management. Students will be exposed to real life situations that pertain to solving complex engineering problems. This course will allow students to communicate their solution to interested parties by using modern design techniques and tools such as simulations and virtual prototyping.
+
+EE321            Power Systems Analysis                                             
+
+Prerequisites: EE211
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course will develop the ability of the graduates to solve various power system problems, e.g. Load flow analysis, Z- bus formulation, Fault analysis, power system control, stability analysis.
+
+EE323            Digital Control Systems                                              
+
+Prerequisites: EE312
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course covers the principles of sampled data systems and the digital implementation of controllers and compensators. Topics to be covered include signal sampling and reconstruction, z-transform analysis of sampled data systems, digital controller and compensator design via classical techniques (transfer functions), state space system analysis, and design of digital controllers and compensators using modern techniques (state space systems).
+
+EE325            Power Electronics & Drives                                       
+
+Prerequisites: EE224 and EE225
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+A detailed study of different types of power converters and their application will form the major part of the course. Industry standard analytical techniques will be taught to provide students with the necessary tools to assess and develop solutions for a wide range of energy conversion related engineering problems. An introduction and use of the basic topologies of switched mode power converters, steady state modelling and their uses will be addressed. Dynamic modelling analysis using the state-space averaging method will also be covered. Real life applications of switched mode converters with their control and regulatory issues will be introduced, e.g. electromagnetic interference (EMI) and related international regulations etc. Fundamentals of inductor, transformer, and semiconductor switch design will also be introduced.
+
+EE326            Embedded Systems                                                      
+
+Prerequisites: EE313 and CS211
+
+Semester 1: Not offered                                                 Semester 2: F at L
+
+This course provides a broad introduction to topics in general and special purpose processors. The course focuses on the techniques of quantitative analysis and evaluation of embedded systems. Topics to be covered include: Memory technologies, bus architecture, I/O structures, and interface design; general and special purpose microprocessors; introduction to System-on-Chip. Students will also undertake a course design project.
+
+EE461        Special Topics in Electrical & Electronic Engineering    (Credit Points: 7.5)                                                                                                                   
+
+Prerequisites: Completion of all 100, 200 and 75% of 300 Level engineering courses
+
+Semester 1: F at L                                              Semester 2: Not offered
+
+This course equips the students with an advanced knowledge of one or more of the major areas within Electrical and Electronics Engineering. They will acquire in-depth knowledge and problem solving skills in one or more of the areas of power electronics, electrical drives, electrical machines, control systems, system identification, analog and digital electronics, electrical and electronics design, mechatronics, power systems, distributed generation, renewable energy sources based generation and conversion, microprocessors, embedded systems, communication systems, traction. The course will have strong theoretical, computational and/or experimental emphasis and the students will learn complex problem-solving in the area of Electrical and Electronics Engineering.
+
+EE462        Advanced Digital Control    (Credit Points: 7.5)                                                                                                      
+
+Prerequisites: EE323
+
+Semester 1:  Not offered                                                                 Semester 2: F at L
+
+This course presents an advanced theory of digital control systems, sampled-data control systems, analysis and synthesis, as well as practical implementation of the digital control algorithms. Topics covered include a review of digital control system fundamentals and analysis, digital compensator and filter design, discrete linear regulator problems, discrete optimal control design, discrete Kalman filter design, introduction to discrete-time stochastic control systems, discrete Liapunov stability analysis, microprocessor-based control systems and introduction to intelligent and autonomous systems.
+
+EE463        Mechatronics  (Credit Points: 7.5)
+
+Prerequisites: EE312 or EE323
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+Mechatronics, unlike traditional engineering techniques, is a multi-disciplinary approach to solving engineering problems. In its simplest form it is the intelligent control of an electromechanical system, and as such, practitioners must be skilled in electronics, mechanics, and software. This course gives an overview of electrical, mechanical, optical and control technologies for system integration. Topics include: intelligent product and processes; design methodology; system modelling; sensors and actuators; microcontrollers; knowledge based control.
+
+EE464        Power Electronics for Distributed Generation & Renewable Energy Systems   (Credit Points: 7.5)                      
+
+Prerequisites: EE321 and EE325
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course introduces concepts on smaller electricity generation systems connected to grid or simply distributed generation systems (DGS). The concept of DGS forms one of the components of the smart grids where electricity generation, storage and consumption are communicated to have better control of power production and flow. The decentralised “feed-in” system has its own technological challenges such as noise to signal ration (SNR) control, load flow control and safety issues. Economic issues such as feed-in tariffs also play a major role in development of DGS. This course explores technological developments and challenges faced in DGS and well as economical models are explored for scalability of such systems for profit making independent power producers (IPP). Core course for all Bachelor of Electrical and Electronics Engineering students.
+
+EE467                Telecommunication Systems and Network Engineering (Credit Points: 7.5)                
+
+Prerequisites: PH302 and EE492
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+Telecommunications is one of the fastest growing fields in the engineering world, and a tremendous interest for this topic exists among both undergraduate and postgraduate students. The course addresses the theory and practical applications of analog and digital communication and network systems; it provides an overview of existing and emerging telecommunications systems and networks. Engineering communication projects including computer simulation of telecommunication systems under different channel environments will be integral part of this course. When completing this course, the students should be able to understand the basic concept of telecommunication system design and get familiar with various wired and wireless networks, including past and future generation mobile telephony networks.
+
+EE481            Professional Engineering & Project Management   (Credit Points: 7.5)
+
+Prerequisites: Completion of all 100 and 200 Level courses and any six from the following eight courses: PH302, EE312, EE313, EE314, EE321, EE323, EE325, EE326
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course equips the students with the knowledge and appreciation of the roles and responsibilities of professional engineers in the society. Topics that will be covered in this course include responsibility, honesty, integrity and reliability in professional practice; safety, risk and liability; role of engineers in addressing ecological concerns, engineering issues in the South Pacific, role of SPEA; rights of engineers; skills of writing complex professional documents and contract law.
+
+EE488        Project 1     (Credit Points: 7.5)                      
+
+Prerequisites: Successful completion of all 100 and 200 Level courses and PH302 and EE312 and EE313 and EE314 and EE321 and EE323 and EE325 and EE326.
+
+However, students with a GPA of 3.0 and above will be allowed to register for EE388 if the student has completed all 100 Level, all 200 Level and any six out of eight from PH302 and EE312 and EE313 and EE314 and EE321 and EE323 and EE325 and EE326.
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+The fourth-year engineering project is an opportunity for students to conduct a definitive piece of independent research in an environment and manner that utilises their learnt skills and knowledge to develop further their engineering research skills. With the guidance of a staff supervisor, students will define a research question, identify its foundation in our existing knowledge, recognise or develop the skills/tools required to investigate the question, apply scientific methods to explore the problem in a methodical fashion, and analyse and present results in clear, concise and structured reports, posters, and oral presentations. Students must be able to demonstrate satisfactory progress in Project I in order to complete their work in Project II.
+
+EE491        Maintenance, Reliability & Engineering Economics     (Credit Points: 7.5)
+
+Prerequisites: Completion of all 100 and 200 Level courses and any six from the following eight courses: PH302, EE312, EE313, EE314, EE321, EE323, EE325 or EE326.
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course highlights the systematic evaluation of the costs and benefits related with anticipated technical projects. The student will understand to the concepts of the “time value of money” and the methods of promotional cash flow. Students will be prepared to make judgements concerning money as capital within an engineering environment. Under the Maintenance Technology, the student will be exposed to condition monitoring techniques, such as vibration, acoustic monitoring and temperature, and in Maintenance Management, they will be exposed to Reliability and Economics of Maintenance, strategies for plant inspection and maintenance, and various other aspects.
+
+EE492        Digital Signal Processing   ( Credit Points:7.5)                      
+
+Prerequisites: EE224,  MA272,  EE323
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+The subject covers the basic concepts and theories in the field of digital signal processing. The course provides a sound knowledge of the fundamentals of DSP. It covers A/D and D/A converters, analysis of discrete time signals and systems, design of finite impulse response (FIR) and infinite impulse response (IIR) digital filters. Various methods of implementing digital filters are also discussed. The laboratory concentrates on the fixed-point digital signal processor and MATLAB software. Emphasis is on implementing useful DSP systems in realtime using assembly language of the Texas Instruments digital signal processor TMS320C50. Students will also undertake a course design project.
+
+EE499                      Project 2     ( Credit Points:7.5)                      
+
+Prerequisites: EE388
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+The fourth-year engineering project is an opportunity for students to conduct a definitive piece of independent research in an environment and manner that utilises their learnt skills and knowledge to develop further their engineering research skills. With the guidance of a staff supervisor, students will define a research question, identify its foundation in our existing knowledge, recognise or develop the skills/tools required to investigate the question, apply scientific methods to explore the problem in a methodical fashion, and analyse and present results in clear, concise and structured reports, posters, and oral presentations.
+
+EN001       Industrial Work Experience
+
+Prerequisites: MM101, MM103 and EE102
+
+Semester 1: F at L                                                           Semester 2: F at L
+
+The Industrial Work Experience (IWE) course comprises four Workshops and 800 hours of Industrial Attachment (IA). The aim of the Module is to immerse students into a representative working environment where they can gain practical experience alongside established and professional industrialists. Students must complete the four preparatory workshops before they commence with IA. The IWE Module is a vital part of the undergraduate BE programme. Students must complete the mandatory 800 hours of Industrial Attachment before they are allowed to progress towards graduation. Several industrial attachments, in various hosting companies, must normally be completed for a student to gain the 800 hours of relevant work experience, required by the degree regulations.
+
+EN600F – Engineering SRP (Full-Time)
+
+EN600P – Engineering SRP (Part-Time)
+
+ EN700F     Engineering Masterís Thesis (Full-Time)
+
+EN700P     Engineering Masterís Thesis (Part-Time)
+
+EN800F     Engineering PhD Thesis (Full-Time)
+
+EN800P     Engineering PhD Thesis (Part-Time)
+
+ 
+
+IS104             Computing for Science & Technology                    
+
+Prerequisites: Admission into Undergraduate Programme
+
+Semester 1: F at L and O at C                                       Semester 2: Not offered
+
+The course covers problem solving strategies, design of algorithms for solution by the computer, overview of computer systems and their development. Programming constitutes a major part of the course and involves the design, implementation, debuging and testing of programmes written in a high-level language (Python). Emphasis is placed on using computers to solve problems of an applied scientific nature.
+
+IS121             Introduction to Information Systems                    
+
+Prerequisites: None
+
+Semester 1: F at L, SI and E, and O at C                     Semester 2: Not offered
+
+This course will provide an introduction to the components of information systems such as hardware, software, data and end-users. It will explain how these components are applied to business processes. This course will also introduce students to basic tools used in the development and ethical use of organizational information systems such as MS Access, Joomla, MYOB etc. Students will be guided to develop a simple web application and database.
+
+IS122             Application Programming                                          
+
+Prerequisites: IS121
+
+Semester 1: Not offered                                                Semester 2: F at L and SI, and O at C
+
+This course will provide a foundation in programming using a high-level language widely used in business and administrative data processing. It will introduce students to the fundamental concepts of programming and focus on giving an understanding of how to build, compile, and distribute effective stand-alone graphical applications. The course is designed to provide students with an opportunity to do a basic design and develop small sized real-world application programs.
+
+IS202             Data Science                                                                   
+
+Prerequisites: ST130 or ST131
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+The course provides students basic techniques and tools commonly applied in data science for extracting meaningful information from data. Students will learn concepts to deal with various facets of data science practice, including data collection and management, data wrangling and visualisation, predictive modeling using statistical learning and machine learning algorithms and effective communication. The students will also learn data science industry standard software such as R Programming to analyze data and interpret the findings to the greater audience.
+
+IS221             Web Applications Development                              
+
+Prerequisites: CS111 or IS122 or IS104
+
+Semester 1: F at L and O at C                                       Semester 2: Not offered
+
+This course  provides the student with a practical foundation in using high level languages that are common in developing web applications. It will examine theoretical concepts of web design and various web development tools. Upon completion student should be able to develop a functional dynamic website.
+
+IS222             Database Management Systems                             
+
+Prerequisites: CS111 or IS122 or IS104
+
+Semester 1: F at L and O at C                                       Semester 2: Not offered
+
+This course will introduce students to relational database management systems, design, construction and management of databases. Students will be introduced to a structured query language (SQL) for data definition and management. The course also covers topics on storing, accessing and manipulating data as well as provides an overview on data security, data sharing and data integrity. Student should be able to administer a database after the completion of this course.
+
+IS226             Systems, Analysis & Design                                       
+
+Prerequisites: IS222
+
+Semester 1: Not offered                                                Semester 2: F at L and O at C
+
+This course aims to provide students with the necessary skills that a systems analyst uses to design information systems. This would include understanding the client’s requirements, analysis & design of the system and documentation. Due to the rapidly evolving nature of systems development, current best practices and methods will be presented.
+
+IS302             Data Analytics                                                                
+
+Prerequisites: IS202
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course covers the fundamentals of data analytics that includes extraction of knowledge from data using various statistical and machine learning tools. Students will learn concepts, techniques and tools practiced in data science that includes (big) data collection, preprocessing and integration, exploratory data analysis, predictive modeling, evaluation, and effective communication. Students would apply the knowledge gained in this course to a real world problem to have an appropriate data model based on the given requirements.
+
+IS314             Computing Project                                                       
+
+Prerequisites: IS222,  and either CS241 or CS214,  or IS226
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This is a project  based course capping the theory work undertaken in preceding courses. An ICT project of moderate complexity from a real-world application environment is executed through the whole semester. In each project, small teams of students carry out the development of a software system using the Software Engineering techniques The project deliverables will normally include a full suite of documentation as well as the software system itself.
+
+IS322             Business Information Systems                                 
+
+Prerequisites: IS222
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+Business information systems make organisations more efficient by providing accessible communications, and facilitating business strategy development. An understanding of BIS is important to the work of business professionals because BIS serves as a bridge between management and operation. This course aims to provide students with a general background of Business Information Systems which includes current and emerging technologies and ethical consideration in businesses. Students will learn to plan, select and design business information system.
+
+IS328             Data Mining                                                                    
+
+Prerequisites: IS222
+
+Semester 1: Not offered                                                Semester 2: F at L and O at C
+
+This course provides a practical and technical introduction to data mining. The goal of this course is to introduce students to the concepts and procedures of data mining and appreciate the key methods and algorithms, and understand contemporary issues in data mining applications. Students will gain hands-on experience in using a data mining software.
+
+IS333             Project Management                                                   
+
+Prerequisites: Completion of 200 Level CS/IS courses
+
+Semester 1: F at L and O at C                                       Semester 2: Not offered
+
+This course focuses on building the foundation knowledge necessary to efficiently manage projects in professional organisations.  This knowledge principally relates to the internationally recognised Project Management Body of Knowledge (PMBOK) and its application to temporary endeavours undertaken to create a unique product, service or result. Through real world case studies, students are introduced to the principles, concepts and processes of project management and their application in both the business and government sectors.  The course contains three major modules; what you must know for effective project management, simple tools for project planning, and how to plan and document projects.
+
+IS351             Data & Information Security                                     
+
+Prerequisites: IS222
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course provides students with an overview of data and information security and focusses on the processes and methodologies involved with keeping data and information confidential, available, and assuring its integrity. The basic data and information security objectives such as data integrity, message authentication, authorisation, validation and access control are examined. Cryptographic techniques to realise these objectives are introduced. In addition the ideas behind hacking, cracking and social engineering will be discussed in the context of ethics and their place in Information Security.
+
+IS413             Advances in ICT                                                                                                             
+
+Prerequisites: Admission into Postgraduate Programme
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course provides a comprehensive view of the advances in Information and Communication Technology (ICT). Advances in ICT can enable business services for economic, ecological and social benefits using “cloud computing” and “green computing”. The course is suited to graduate engineering and IS students with an interest in the application of large server data repositories. It will examine case studies from the local and regional ICT developments to establish a framework for exploring the strategic development, practical deployment and evaluation of benefits from adopting network computing (NC).
+
+IS414             Business Network Technologies                                                      
+
+Prerequisites: Admission into Postgraduate Programme
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course introduces the student to digital telecommunications and networks from a management viewpoint, including the theoretical and technical foundations underlying the networks, and the issues related to the network’s environment. This course will provide students with an understanding of the business and technology issues related to telecommunications and networks. It will also introduce students to the technical and management framework required to plan properly for upgrade, or implement new networks that guarantee system availability and reliability. It introduces the various media used along with the main techniques employed to provide reliable and efficient communications. It describes the major transmission systems and networks from Local to Wide Area Networks along with the equipment and techniques used to interconnect them. In addition, the course covers the TCP/IP protocol suite and a number of Internet technologies.
+
+IS421             Knowledge Discovery in Databases                                                                       
+
+Prerequisites: Admission into Postgraduate Programme
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course on knowledge discovery in databases provides students with exposure to state-of-the-art applications in data mining and is suitable in a liberal arts environment. It incorporates mathematics especially statistics and demonstrates how data mining foundational concepts can be built upon in new and innovative ways. The strength of this information system discipline prepares students to understand the purpose and general methodology of knowledge discovery and apply it to practical information research.
+
+IS428             Data & Information Security                                     
+
+Prerequisites: Admission into Postgraduate Programme
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This unit covers the basic principles and techniques used to protect information. The areas covered are: defining, identifying and classifying information as an important asset. It will also cover access control, information risk analysis, contingency planning, threats to information systems, data security legislation, procedures for secure information flow, classification systems, document and record storage, industrial espionage, confidentiality and privacy breaches associated with information security.
+
+IS431             IT Project Management                                                                                              
+
+Prerequisites: Admission into Postgraduate Programme
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This unit introduces students to information technology (IT) project management. The fundamentals of strategic and operational planning for software and IT projects are examined. The processes associated with formulating project briefs and documenting the needs and requirements of users are explored. The tools and techniques that could be used for capturing and optimising user and stakeholder requests are also examined. The unit also provides insight into how new technologies and software can be used as an aid to managing information technology projects.
+
+IS432             IT Project                                                                                                                         
+
+Prerequisites: IS431
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+The course requires students to conduct an industry-based project in an area of interest and expertise within their stream of specialisation in computer science or information systems. An informal design and development methodology will be used in the project. Students are expected to examine incidents of professional practice in the project and to develop communication skills appropriate to the development and possible implementation of the project.
+
+IS433             Information Management                                                                                         
+
+Prerequisites: Admission into Postgraduate Programme
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course introduces basic principles that help IT managers make fundamental decisions involving the use of information systems, that is, when, where and how to apply them. Areas covered include the role of management in Information Systems (IS), using Information Technology (IT) for competitive advantage, taking an active role in IS development and managing IS resources. The course focuses the latest theory and practice in data warehousing, analytical processing, business process improvement, and e-business transformation. A local company case work to develop the major themes of information management from enhanced individual and organisational performance. There is an emphasis on applying insights to practical management situations in adopting e-business solutions. Students discover that information management concentrates on understanding and utilising the core concepts of information, management, data management, organisational communication and behaviour.
+
+IS434             Enterprise Systems                                                                                                      
+
+Prerequisites: Admission into Postgraduate Programme
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course will introduce students to the theory and concepts of enterprise wide information systems and the underlying business process thinking. It provides an overview of the issues related to the organisation’s enterprise-wide IT architecture. These issues focus on the integrated business application, business intelligence applications that support decision making and business process improvement for organisational effectiveness. The course presents e-business as the key driver of enterprise integration and associated architecture for supporting enterprise-wide improvements. The practical work focuses on the use of business process models to document the change process for designing and implementing new e-business solutions.
+
+IS600F           Information Systems SRP (Full-Time)                                                                 
+
+IS600P           Information Systems SRP (Part-Time)                                                                   
+
+IS700F           Information Systems Master’s Thesis (Full-Time)                                                            
+
+IS700P           Information Systems Master’s Thesis (Part-Time)                                                            
+
+IS750F           Information Systems DRP (Full-Time)                                                                    
+
+IS750P           Information Systems DRP (Part-Time)                                                                  
+
+IS800F           Information Systems PhD Thesis (Full-Time)                                                        
+
+IS800P           Information Systems PhD Thesis (Part-Time)                               
+
+MA102          Mathematics for Science                                            
+
+Prerequisites: Admission into Undergraduate Programme
+
+Semester 1: Not offered                                                Semester 2: F at L and O at C
+
+This is a service course designed to provide a working knowledge of commonly used mathematical methods. It is a terminating course and is not available to students intending to pursue mathematics as a major or a minor and is not suitable for students of physics or engineering. The course covers those areas of statistics and calculus, which are likely to be demanded in the disciplines of biology, chemistry, earth science, environmental and marine sciences and some areas of technology.
+
+MA111          Calculus 1 & Linear Algebra 1                                   
+
+Prerequisites: Year 13/Form 7 Mathematics or (MAF11 and MAF12)
+
+Semester 1: F at L and O at C                                       Semester 2: F at L and O at C
+
+This course examines Calculus: limits and continuity; the derivative; exponential, logarithmic and inverse trigonometric functions; integration; and linear algebra: systems of linear equations; Gaussian elimination; Gauss-Jordan elimination; applications of system of linear equations; matrices; determinants. Note: Mature students wishing to enter MA111 are required to complete MAF12 if they had not studied or taught Mathematics for at least a year during the five years prior to enrolment.
+
+MA112          Calculus 2                                                                         
+
+Prerequisites: Year 13/Form 7 Mathematics or (MAF11 and MAF12)
+
+                                Admission into Undergraduate Programme
+
+Semester 1: F at L and O at C                                       Semester 2: F at L and O at C
+
+This course is fundamental to the study of mathematics at USP. It is also a service course for programmes in Computing Science, Physics and Engineering. The primary goal of this course is to look at the various applications of definite integration, study the different techniques of integration, and provide a brief introduction to functions of two or more variables. We also study L`Hopitals rule and discuss limits rigorously. Some applications of derivatives are also considered and finally we look at infinite series.
+
+MA161          Discrete Mathematics 1                                              
+
+Prerequisites: Year 13/Form 7 Mathematics or (MAF11 and MAF12)
+
+Semester 1: Not offered                                                Semester 2: F at L and O at C
+
+Discrete mathematics studies structures which are not continuous or smooth, but which come in `lumps`. Topics covered include logic, methods of proof, functions, set theory, Boolean algebra, algorithms, elementary number theory, mathematical reasoning, mathematical induction, recursion, counting techniques, discrete probability and generating functions. The course MA161 is compulsory for students majoring in computer science. It is a recommended course for students majoring in Mathematics, information systems, engineering or physics.
+
+MA211          Advanced Calculus                                                       
+
+Prerequisites: MA112
+
+Semester 1: F at L and O at C                                       Semester 2: Not offered
+
+This course builds on MA111 and MA112 by further studying mathematical tools for analysing change. The calculus of functions of several variables is studied with applications to computing arc lengths, surface integrals and volume integrals, and computing extreme values of functions subject to certain constraints. Computing maximum and minimum values of functions of several variables has wide applications in mathematics, computing, economics, engineering and the physical sciences.
+
+MA221          Linear Algebra 2                                                            
+
+Prerequisites: MA111
+
+Semester 1: Not offered                                                Semester 2: F at L and O at C
+
+A study of linear algebra and some of the associated numerical methods. Vector spaces, bases and dimension, inner product spaces; linear transformations and matrices, rank, nullity, change of basis; eigenvectors, eigenvalues. Applications to solutions of systems of linear equations and differential equations.
+
+MA262          Discrete Mathematics 2                                              
+
+Prerequisites: Any two of MA161, MA111, MA112
+
+Semester 1: F at L and O at C                                       Semester 2: Not offered
+
+This is a course in discrete mathematics. Topics covered include logic, mathematical reasoning, sets, cardinality, relations, algorithms and complexity, number theory, graphs and trees. Many of the discrete structures and objects encountered in this course are used a lot in more advanced areas of pure mathematics and computer science. The course will concentrate on mathematical rather than computer science applications. This course is highly recommended for students taking further study in pure mathematics with its emphasis on mathematical reasoning and proof.
+
+MA272          Engineering Mathematics 4
+
+Prerequisites: MA112
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course is intended as the final 200-level subject in mathematics for the Bachelor of Engineering programme. It is also available as a terminating mathematics course for students majoring in other disciplines. Normally a student majoring in mathematics is not allowed to take this course and have it counted towards his/her degree requirements. The course will involve computer laboratory sessions using MATLAB and statistical software packages to provide students with an introduction to mathematical and statistical software and its application to engineering and related problems.
+
+MA312          Ordinary & Partial Differential Equations
+
+Prerequisites: MA211
+
+Semester 1: Not offered                                                Semester 2: F at L and O at C
+
+The subject of differential equations can be described as the study of equations involving derivatives, or more commonly, as the study of change. There is an in-depth coverage of solutions to both the ordinary and the partial differential equations. Modelling real-life changes and then utilising various different techniques in solving these differential equations is the main flavour of this course. In general, the course has a strong emphasis on analytic methods, though qualitative techniques will also be briefly considered where the general properties of solutions are determined without concern for exact behaviour.
+
+MA313          Real & Complex Analysis                                           
+
+Prerequisites: MA211
+
+Semester 1: F at L and O at C                                       Semester 2: Not offered
+
+The course has two strands. In the first strand the students learn rigorous foundations of the concepts of limits, continuity, sequences and series already encountered by them in MA111, MA112 and MA211. In the second strand the students are introduced to complex analysis. Complex analysis has applications in partial differential equations, Fourier series, theoretical physics and many other areas of pure and applied sciences.
+
+MA321          Abstract Algebra                                                           
+
+Prerequisites: MA221
+
+Semester 1: Not offered                                                Semester 2: F at L and O at C
+
+This course is an introduction to the theory of groups, rings and fields. It constitutes the foundations of modern abstract algebra and is a basis for many other algebraic structures. The part of the course on group theory, which can be seen as the abstract study of symmetry, starts with the basic facts about groups, introduces the construction of the factor group, and culminates with the fundamental structure theorems of finite groups. The part on ring theory is concerned with another algebraic structure and studies its basic properties and constructions. The course closes with applications of the theory of rings and groups to field theory.
+
+MA341          Numerical Analysis & Linear Programming
+
+Prerequisites: MA221 or MA211
+
+Semester 1: F at L and O at C                                       Semester 2: Not offered
+
+This course is optional for students doing a major (single or double) or a minor in Mathematics. The primary goal of this course is to give a brief introduction to numerical analysis and to expose students to some of the statistical and mathematical models used in Operations Research. Numerical analysis involves study, development and analysis of algorithms for obtaining numerical solutions to various mathematical solutions. Operations Research as a tool of scientific decision making is widely used in defence establishments, modern industries and the multinational corporate world.
+
+MA411          Mathematical Analysis                                               
+
+Prerequisites: MA313 and one other 300 Level MA course
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course examines real analysis: number systems, sets and functions, metric spaces, topological spaces, continuity, differentiation, and integration of functions. Analysis is the branch of mathematics that deals with inequalities and limiting processes, and is the theoretical background to calculus. The aim of the course is to give students a good background in the concepts and techniques of analysis with an emphasis on rigorous proof of major calculus results. The basic definition of limits, sequences and continuity already encountered in MA313 are used throughout the course.
+
+MA416          Nonlinear Dynamical Systems                                  
+
+Prerequisites: MA211 and MA312 and one other 300 Level MA course
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+Realistic models of the physical world are nonlinear, involving large amplitudes of motion and thus usually several equilibria of the system concerned. This course gives the background for the analysis and synthesis (design) of dynamic behaviour of general networks, which represent a large class of nonlinear systems, predominantly physical and in particular mechanical. Research projects will involve the application of nonlinear techniques to analyse the properties of nonlinear systems. It is essential that the student is well-versed in one of the computing languages or computer algebra systems such as Mathematica.
+
+MA420          Special Studies in Mathematics                                                                               
+
+Prerequisites: Admission into the Postgraduate Programme
+
+Semester 1: F at L                                                            Semester 2: F at L
+
+This course provides students with an opportunity to study an area of mathematics not available in the current postgraduate programme. The topic offered will depend on staff availability. Further details are available from the School of Computing, Information and Mathematical Sciences.
+
+MA441          Advanced Numerical Analysis                                  
+
+Prerequisites: Admission into the Postgraduate Programme
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+There are two strands to this course: approximation theory and numerical integration. The course covers polynomial interpolation, orthogonal polynomials, least squares approximation by polynomials, approximation by trigonometric polynomials, Fast Fourier Transforms, and piecewise polynomial approximation. The last part of the course gives a thorough coverage of derivation and error analysis of trapezoidal rule, Simpson’s rule, midpoint rule, Gaussian quadrature, composite rules, and Romberg integration.
+
+MA443          Methods of Advanced Numerical Analysis 2
+
+Prerequisites: Admission into the Postgraduate Programme
+
+Semester 1: F at L                                     Semester 2: Not offered
+
+Differential equations occupy a prominent place in the mathematics curriculum because they are central to many topics in science and engineering. Solving differential equations using computers is the main objective of this course. Software package MATLAB will be used in the course. Using MATLAB, you can solve technical computing problems faster than with traditional programming languages, such as C, C++, and Fortran, because MATLAB handles time-consuming and error-prone aspects of programming automatically and efficiently. MATLAB provides 2D and 3D graphics functions for presenting your results.
+
+MA600F        Mathematics SRP (Full-Time)                                                                                    
+
+MA600P       Mathematics SRP (Part-Time)                                                                                   
+
+MA700F        Mathematics Master’s Thesis (Full-Time)                                                             
+
+MA700P       Mathematics Master’s Thesis (Part-Time)                                                            
+
+MA750F        Mathematics DRP (Full-Time)                                                                                    
+
+MA750P       Mathematics DRP (Part-Time)                                                                                  
+
+MA800F        Mathematics PhD Thesis (Full-Time)                                                                      
+
+MA800P       Mathematics PhD Thesis (Part-Time)                                                                     
+
+MM101         Engineering Graphics & Design                                
+
+Prerequisites: Admission into the Undergraduate Programme
+
+Semester 1: F at L and O at E & SAM                                                            Semester 2: Not offered
+
+This course provides a broad introduction to the principles of engineering graphics by covering areas such as spatial-visualisation abilities and sketching of spatial relationships, use of standards and conventions in engineering graphics, and computer aided drawing (CAD). The Engineering design process will also be looked at and emphasised through student design projects. The parametric modelling software Autodesk Inventor® will be introduced while the primitive modelling/ drawing software AutoCAD® will be taught in detail.
+
+MM103         Engineering Mechanics                                               
+
+Prerequisites: MA111 and PH102
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course aims at equipping students with the knowledge and practical skills needed for solving every day engineering problems. The course first reviews the concepts of forces and vectors that were introduced to the students in an earlier engineering physics course. The course then covers topics in statics which include force systems on rigid bodies, distributed forces, analysis of structures, forces in beams and cables along with friction.
+
+MM211         Solid Mechanics 1                                                         
+
+Prerequisites: MA112 and MM103
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This aims at equipping the students with the knowledge and skills of understanding deformation materials undergo during externally applied forces. The course first builds up on the topics Centroids and Centres of Gravity and then introduces students to the concepts of stress and strain. It then concentrates on deformations during torsion and bending. Stresses in Beams and Columns together with a topic in energy methods are covered.
+
+MM212         Metallurgy & Material Science                                
+
+Prerequisites: MM103
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course aims at equipping the students with skills required for understanding the various properties of metals and other materials and their applications in engineering practice. This course is intended to provide the students with a strong fundamental knowledge and some practical skills of metallurgy and material science.
+
+MM214         Dynamics                                                                         
+
+Prerequisites: MM103
+
+Semester 1: F at L                                                            Semester 2: F at L
+
+This course aims at equipping the students with the knowledge of the different aspects of dynamics and understanding of the basic methods required to perform kinematics and dynamic analysis on particles and rigid body, and includes topics such as kinematics of particles, rectilinear and curvilinear motion, kinetics of particles: force, mass, acceleration, kinetics of systems of particles and rigid body; planar kinematics of rigid bodies, impulse and momentum, work and energy.
+
+MM221         Thermodynamics & Heat Transfer                          
+
+Prerequisites: PH102, and MA111 or MA112
+
+Semester 1: F at L                                               Semester 2: Not offered
+
+This course introduces the students to thermodynamics, which is the science dealing with the conversion and transfer of energy. This includes all aspects of energy and energy transformations including power production and properties of matter. Determination of the rates of such energy transfers is also studied in this course under heat transfer.
+
+MM222         Fluid Mechanics                                                            
+
+Prerequisites: PH102, and MA111 or MA112
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course introduces the students to the sciences that deal with the behaviour of fluid in both static and dynamic conditions. This course is designed to enable the student to analyse any practical system in which fluid is the working medium. Fluid mechanics deals with a study of the behaviour of fluids at rest or in motion and the interaction of fluids with solids or with other fluids at the boundaries.
+
+MM223         Manufacturing Processes                                          
+
+Prerequisites: MM212
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course is designed to develop an understanding of various manufacturing processes, such as castings, metal forming, metal cutting, metal joining, surface finishing processes and selection of manufacturing processes. In addition, this course builds the foundation for other advanced courses in manufacturing engineering.
+
+MM301         Renewable Energy Systems                                      
+
+Prerequisites: MA211
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+The course considers the resources and distribution  of both renewable and conventional energy. Particular emphasis is placed on the physical principles and the harnessing of renewable energy sources, such as solar radiation, photovoltaic wind, geothermal, hydropower, biomass, bio-fuel, wave and tidal power, and ocean thermal gradients. Heat engines and electrical machines are also dealt with. Laboratory work involves small-scale devices to harness renewable energy. Field visits to renewable energy sites forms an essential component of the course.
+
+MM311         Applied Thermo-Fluids                                                
+
+Prerequisites: MM221 and MM222
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course enables the students to apply the basic engineering concepts to practical devices and systems. A number of engineering devices involve conversion, transfer and transport of energy from one form to another. The students need to clearly understand the working of these engineering devices and analyse the energy interaction involved. They may also need to design simple devices and test them to enhance their understanding of the subject. This course will provide the students with an opportunity to apply the basic knowledge of thermo-fluids, gained in earlier courses, to practical devices and systems. Topics include internal combustion engines, gas turbines, power cycles and plants, wind engineering and wind tunnel testing, aerodynamics, turbo-machinery, analysis of heat transfer in heat exchangers and fins, transient heat transfer, forced and natural convection.
+
+MM312         Solid Mechanics 2                                                         
+
+Prerequisites: MM211
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course teaches the fundamentals of analysing stress and deformation in solids under complex loading associated with structures/elements in mechanical engineering. At the end of this course students will be able to understand and apply the fundamental principles of solid mechanics and the basic methods of stress, strength, and deformation analysis of a solid structure and/or element in relation to a design. By completing this course, students will gain the ability to: conduct strain analysis, use compatibility equations, do elastic and plastic analyses, describe boundary conditions for complex engineering problems, and use energy methods for stress and deformation analysis. Students will also be introduced to: plates and shells and how to conduct plate and shell structural analysis; stress concentration analysis and its relation to fracture and service life of a component/structure and finally finite element method is introduced and used for stress and deformation analysis.
+
+MM315         Mechanisms & Machines                                           
+
+Prerequisites: MM211
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course introduces students to the study of machines and the basic elements that comprise them. After completing this course students will have a greater understanding and working knowledge of how general machinery is designed, manufactured and functions.  Students will also be able to analyse basic machine elements such as gears, springs, flexible machine elements, mechanisms and linkages, screws, bearings, brakes and will also study topics such as engines and  power transmissions.
+
+MM321         Refrigeration & Air Conditioning                             
+
+Prerequisites: MM221
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course enables the students to apply the basic thermodynamics concepts to practical refrigeration and air conditioning systems. Topics to be covered include introduction to refrigeration, air refrigeration systems, aircraft refrigeration, vapour compression and vapour absorption refrigeration systems, performance testing, refrigerants and their properties, introduction to comfort air conditioning, psychrometric processes, cooling load calculations, design of air conditioning systems, types of air conditioning systems and their applications.
+
+MM322         Metrology & Instrumentation                                 
+
+Prerequisites: EE102
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course equips the students with the measurement skills, and measurement system analysis skills, and provides them with sufficient knowledge to design and build measuring instruments. Topics that will be covered include linear and angular measurements, measurements of straightness, roundness and flatness, limit gauges, and gear measurements. The measurements of displacement, temperature, pressure, and vibration, stress and strain, including optical techniques and sensors will also be taught. They will also do laboratory exercises involving design and building complete measurement systems. The basic controls systems will also be taught.
+
+MM323         Manufacturing Systems                                             
+
+Prerequisites: MM223
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+The aim of the course is to teach students about the current types of discrete parts manufacturing systems. It will help the students acquire the knowledge of principles and types of manufacturing systems and models to appreciate materials handling systems and storage and retrieval systems. The course also enables the students to apply modelling and performance analysis techniques to solve manufacturing systems design and operation problems. The students will use FlexSim software to analyse a given production line and thereby derive suggestions for improving the designs based upon the results.
+
+MM324         Mechanical Engineering Design                               
+
+Prerequisites: MM312 and MM315
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+The design process is an exciting undertaking that calls upon many disciplines in order for it to produce the desired result. The designers must be equipped with a variety of creative, problem solving and analytical skills in order for them to achieve the optimal design. The designer must be aware of materials, mechanical elements, manufacturing processes, stress analysis techniques/methods, physics involved, ergonomics, safety requirements, standards and costs involved and the ability to create these ideas on paper or using graphics tools. Students will use an industrial Finite Elements Analysis (FEA) package to analyse a given design task and thereby derive suggestions for improving the design based upon the results.
+
+MM461         Advanced Manufacturing                                                                                          
+
+Prerequisites: MM323
+
+Credit points: 7.5
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+The course introduces some of the advanced manufacturing technologies, such as non-traditional machining techniques, rapid prototyping, nano-fabrication processes, automation processes; computer integrated manufacturing, laser technology and plastic processing technologies. It aims to strengthen fundamental concepts and principles in all these manufacturing technologies, which are then applied in industrial applications.
+
+MM462         Advanced Fluid Dynamics                                                                                          
+
+Prerequisites: MM311
+
+Credit points: 7.5
+
+Semester 1: Not offered                                                Semester 2: Not offered
+
+This course introduces the students to advanced topics in fluid dynamics. It aims to strengthen the fundamental concepts and principles of fluid dynamics, which are then applied to some engineering and environmental fluid phenomena. A lot of environmental fluid flow problems exist in this region and the students will be well equipped to solve these problems after completing this course. Students will be able to understand the important governing equations of fluid flows, the Navier-Stokes equations and will be able to solve them for some specific cases. Turbulent flows are encountered everywhere in real life. Students will be able to analyse turbulent flows along with the causes of transition to turbulence. In most situations, the information on wind loads and effects on the structures is needed to ensure reliable design and desirable building performance which can significantly reduce wind induced damage and losses. Wind engineering basics will be taught to equip the students to solve problems related to winds. The characteristics of atmospheric wind will be taught, the wind loads on buildings will be discussed in detail. High speed flows which require a different treatment will be covered. Wind tunnel testing of aerodynamic and bluff bodies, which is intended to give information on wind effects on structures under particular wind conditions i.e. particular wind speed and wind direction relative to the structure and its surroundings, will be taught.
+
+MM463         Thermo-fluid Dynamics of Renewable Energy Devices                                   
+
+Prerequisites: MM301 and MM311
+
+Credit points: 7.5
+
+Semester 1: Not offered                                                Semester 2: Not offered
+
+This course enables the students to apply the knowledge gained in the undergraduate courses in the area of thermo-fluids and energy to design and analyse practical devices. A number of Renewable Energy extraction devices are being developed these days and a thorough knowledge and understanding of the thermo-fluid dynamics of these devices is required to design, analyse and test the performance of these devices. This course equips them with the necessary skills to design and analyse the Renewable Energy systems by applying the thermo-fluid laws to wind, solar thermal, hydro, wave, tidal current and OTEC devices.
+
+MM465         Advanced Mechanical Design                                   
+
+Prerequisites: MM324
+
+Credit points: 7.5
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+In this course, the students will encounter some interesting topics that will be invaluable in their mechanical engineering design career. Students will complete projects within the major disciplines of mechanical engineering and gain an increased and detailed knowledge of their design tools, in particular Finite Element Analysis. Other topics that will be covered include developing a culture of safety, leadership skills, Engineering communication techniques, and design concepts such as manufacture, fatigue, fracture, environment and sustainability, and quality.
+
+MM466         Special Topic in Mechanical Engineering                                                                            
+
+Prerequisites: Completion of all 100, 200 and 75% of 300-level Mechanical Engineering courses
+
+Credit points: 7.5
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course equips the students with an advanced knowledge of one or more of the major areas within Mechanical Engineering. They will acquire in-depth knowledge and problem solving skills in one or more of the areas of solid mechanics, materials and manufacturing, thermo-fluids, and machine design. The course will have strong theoretical, computational and/or experimental emphasis and the students will learn complex problem-solving in the area of Mechanical Engineering.
+
+MM467        Finite Element Methods and Analysis                                                                            
+
+Prerequisites: MM324
+
+Credit points: 7.5
+
+Semester 1: F at L                                              Semester 2: Not offered
+
+This unit aims to teach fundamentals of modern numerical and analytical techniques for evaluating stresses, strains, deformations, and strengths of representative mechanical engineering structures. In particular the focus is on developing an understanding of: Fundamental concepts and formulations of the finite element methods for basic structural analysis; Elements for typical structures, such as beams/frames, plates/shells, and their applications and limitations; Finite element techniques for various types of problems pertinent to mechanical engineering structures; and, developing hands-on experience of using selected commercial finite element analysis program.
+
+MM468        Mechanical Vibrations                                                                            
+
+Prerequisites: MM214 and MA272
+
+Credit points: 7.5
+
+Semester 1: F at L                                              Semester 2: Not offered
+
+Most engineering machines and structures experience vibrations to some degree, and their design generally requires consideration of their oscillatory motions. The aim of this course is to cover concepts of vibrations of mechanical systems including, a review of systems with one degree of freedom, Lagrange’s equations of motion for multiple degrees of freedom systems, an introduction to matrix methods, transfer functions for the harmonic response, impulse response, and step response, convolution integrals for response to arbitrary inputs, principal frequencies, and modes, applications to critical speeds, measuring instruments, isolation, torsional systems, and introduction to nonlinear problems.
+
+MM481         Professional Engineering & Project Management
+
+Prerequisites: Completion of all 100 and 200 Level courses,  and any six from the following eight courses: MM301,  MM311,  MM312,  MM315,  MM321,  MM322,  MM323,  MM324
+
+Credit points: 7.5
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course equips the students with the knowledge and appreciation of the roles and responsibilities of professional engineers in the society. Topics that will be covered in this course include responsibility, honesty, integrity and reliability in professional practice; safety, risk and liability; role of engineers in addressing ecological concerns, engineering issues in the South Pacific, role of SPEA; rights of engineers; skills of writing complex professional documents and contract law.
+
+MM488         Project 1                                                                           
+
+Prerequisites: Successful completion of all 100 and 200 Level courses and MM301 and MM311 and MM312 and MM315 and MM321 and MM322 and MM323 and MM324.
+
+Credit points: 7.5
+
+However, students with a GPA of 3.0 and above will be allowed to register for MM388 if they have completed all 100 Level, all 200 Level and any six out of eight from MM301 and MM31 land MM312 and MM315 and MM321 and MM322 and MM323 and MM324.
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+The fourth year engineering project is an opportunity for students to conduct a definitive piece of independent research in an environment and manner that utilises their learnt skills and knowledge to develop further their engineering research skills. With the guidance of a staff supervisor, students will define a research question, identify its foundation in our existing knowledge, recognise or develop the skills/tools required to investigate the question, apply scientific methods to explore the problem in a methodical fashion, and analyse and present results in clear, concise and structured reports, posters, and oral presentations. Students must be able to demonstrate satisfactory progress in Project I in order to complete their work in Project II.
+
+MM491         Maintenance, Reliability & Engineering Economics
+
+Prerequisites:l Completion of all 100 and 200 Level courses,  and any six out of eight from: MM301, MM311,  MM312, MM315,  MM321,  MM322,  MM323,  MM324
+
+Credit points: 7.5
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course highlights the systematic evaluation of the costs and benefits related with anticipated technical projects. The student will understand to the concepts of the “time value of money” and the methods of promotional cash flow. Students will be prepared to make judgements concerning money as capital within an engineering environment. Under the Maintenance Technology, the student will be exposed to condition monitoring techniques, such as vibration, acoustic monitoring and temperature, and in Maintenance Management, they will be exposed to Reliability and Economics of Maintenance, strategies for plant inspection and maintenance, and various other aspects.
+
+MM492         Industrial Engineering                                                 
+
+Prerequisites: Completing all 100 and 200-level courses and any six out of eight from MM301, MM311, MM312, MM315, MM321, MM322, MM323, and MM324.
+
+Credit points: 7.5
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course introduces various concepts and techniques applied for production planning and controlling activities in the manufacturing and the service industries. It basically covers the major topics such as product design, productivity measures, forecasting, scheduling, planning and inventory controls in operational management. The course also discusses on work system design for organisation. In addition it gives an introduction to fundamentals of organisation structures, role of industrial engineers and industrial psychology.
+
+MM499         Project 2                                                                           
+
+Prerequisites: MM388
+
+Credit points: 7.5
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+The fourth year engineering project is an opportunity for students to conduct a definitive piece of independent research in an environment and manner that utilises their learnt skills and knowledge to develop further their engineering research skills. With the guidance of a staff supervisor, students will define a research question, identify its foundation in our existing knowledge, recognise or develop the skills/tools required to investigate the question, apply scientific methods to explore the problem in a methodical fashion, and analyse and present results in clear, concise and structured reports, posters, and oral presentations.
+
+PH102           Classical Physics                                                            
+
+Prerequisites: Year 13/Form 7 Physics or PHF02 and PHF03 or equivalent
+
+Semester 1: F at L and O at E and SAM                                      Semester 2: Not offered
+
+This introductory course deals with mechanics, mechanical and thermal properties of matter and wave motion, in order to prepare students for further studies in physics and other sciences where physical phenomena play a role. Laboratory work involves experiments that reinforce the lecture material. This course is suitable for students who wish to major in Physics and Engineering.
+
+PH103           Quantum & Electrical Physics                                   
+
+Prerequisites: Year 13/Form 7 Physics or PHF02 and PHF03 or equivalent
+
+Semester 1: Not offered                                                Semester 2: F at L and O at E, TON, LTK
+
+PH103 aims to provide a basic knowledge of various topics in Physics such as Electricity, Magnetism, Optics, Semiconductors, AC /DC circuits, Atomic and Nuclear Physics. Lectures are complimented by laboratories and tutorials to reinforce the topics taught in the course. There are various opportunities for students to learn through online activities. Students will learn to use specialized instruments in electrical and optical experiments. The course provides the foundation for other Physics courses at higher levels.
+
+PH106           Physics for Other Sciences                                         
+
+Prerequisites: Year 12/Form 6 Physics
+
+Semester 1: F at L and O at E, TON and LTK             Semester 2: Not offered
+
+This is a service course for students majoring in sciences other than physics, where physical phenomena play a role. Laboratory work involves experiments that reinforce lecture materials on mechanics, fluids, electricity, nuclear and atomic physics. The course deals with practical applications of these topics.
+
+PH202           Environmental Physics                                                
+
+Prerequisites: PH102 or PH103 and MA111 or MA112
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+The aim of this course is to provide  physical meteorological concepts in a visual and practical manner while simultaneously providing students with a  background in  thermodynamics of the atmosphere.   This course emphasises the application of meteorological principles.  The Earth and its atmosphere and the dynamics form an integral component of this course. Tropical weather, weather forecasting techniques, thunderstorms and tropical cyclones are, thunderstorms, and climate change are examined.
+
+PH204           Mordern Physics                                                           
+
+Prerequisites: PH102 or PH103 and MA112
+
+Semester 1: F at L and B at E                                        Semester 2: Not offered
+
+Modern physics deals with the developments of physics in the microscopic world that began early 20th century.  It includes theories that explain the properties of the atom, the atomic nucleus and the particles of which it is composed. The course introduces the fundamentals of optics and gives a quantitative treatment to a number of topics involved in optics.  The course presupposes knowledge of elementary differential and integral calculus.  Knowledge of ordinary differential equations is useful in topics related to quantum mechanics.  The laboratory work involves experimentation in both atomic/molecular and nuclear physics including some of the classic experiments, e.g., Heisenberg’s Uncertainty Principle, Frank and Hertz experiment, Zeeman effect, Millikan’s oil drop and the Hall Effect.
+
+PH206           Electromagnetism & Electronics                              
+
+Prerequisites: PH102 or PH103 and MA111 or MA112
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course introduces topics on electrostatics, magnetostatics, electromagnetic theory, and analog and digital electronics which serve as basis for work to be carried out in a 300-level course PH302: Electrical Communication and Instrumentation and PH306: Measurement and Control of Physical Systems. The laboratory component will give concrete understanding of applications of electromagnetism and electronics. This course is one of the required courses for a major or minor in Physics.
+
+PH301           Renewable Energy Systems                                      
+
+Prerequisites: PH202
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This course considers the resources and distribution of both renewable and conventional energy. Particular emphasis is placed on the physical principles and the harnessing of renewable energy sources, such as solar radiation, photovoltaic wind, geothermal, hydro-power, biomass, bio-fuel, wave and tidal power, and ocean thermal gradients. Heat engines and electrical machines are also dealt with. Laboratory work involves small-scale devices to harness renewable energy. Field visits to renewable energy sites forms an essential component of the course.
+
+PH302           Electronic Communication Systems
+
+Prerequisites: PH206 or EE224 and one of  EE212 or EE225 for EE students only
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+This is a 300 level course which provides in depth knowledge on propagation of electromagnetic waves and their applications, and communications systems used in real situations.  The course starts with the study and evaluation of waves in free space, dielectric and conducting media. For point to point transmission, guided waves in transmission line and waveguides are evaluated. The antennae development and their radiation patterns for real life applications are discussed. The analog modulation methods are covered. The wave propagation in the ionosphere is then covered which plays important part in VLF-HF and satellite communications.  Modern communication systems such as satellite communication, cellular phones, optical communication are also covered. Finally, different networks are covered and latest development in communication is discussed. The laboratory work includes experiments and projects on different communications systems.
+
+PH304           Solid State Physics                                                        
+
+Prerequisites: PH204
+
+Semester 1: Not offered                                           Semester 2: F at L
+
+This course deals with the physics of crystals, metals, semiconductors and magnetic substances. It is an important course for those wishing to specialise later in materials technology. The concepts and foundations of solid state physics are presented and the theoretical background is developed. The application of solid state physics to crystal growth and the manufacturing of semiconducting, magnetic and superconducting materials are considered. The laboratory work includes experiments on electrical, magnetic, optical and thermal properties of solids.
+
+PH306           Special Topics
+
+Prerequisites: PH206
+
+Semester 1: Not offered                                                Semester 2: F at L and B at E
+
+PH306 is a special topics course that covers various applications in Physics that are relevant for engineering & industrial applications and scientific research. It covers all the major elements of a measurement and control system including transducers, signal conditioning, data acquisition, signal manipulation and programming. Computer-controlled laboratory instrumentation using the graphical programming software, Lab VIEW and/or MatLAB computer peripherals forms an integral part of the course. The course also covers analogue electronics including principles and applications of operational amplifiers and feedback systems. The Physics of the Earth structure, geo-hazards, and methods of geophysical measurements and analysis are studied.
+
+PH402           Radio Wave Propagation & Applications
+
+Prerequisites: Admission into the Postgraduate Programme
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+The course deals with wave generation from Hertzian dipole, linear antennas, antenna arrays, aperture antennas. Radiation due to accelerated charge (electron), cyclotron, synchrotron and Cerenkov process of radiation. The propagation of waves in the extended media: dielectric and conducting media. The propagation of waves in bounded media such as waveguides and fibre optic will be covered. Dispersion relation of electromagnetic waves propagating in ionosphere, absorption, fading, and Faraday rotation of waves. Principles of digital communication and modems. Introduction to mobile, satellite and fibre optic communications. Natural hazards detection, monitoring and analysis using radio wave techniques. Space and terrestrial weather impacts on atmosphere and ICT.
+
+PH407           Wind Power: Theory & Applications                      
+
+Prerequisites: Admission into the Postgraduate Programme
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course will involve the theoretical and practical aspects of wind power generation, in the context of small-scale wind power technology. From a basic grounding in wind power conversion processes, students will be introduced to advanced knowledge of wind turbine design and performance. Aspects of the course include wind-speed measurement and analysis for power generation, energy storage, economics and safety and environmental issues. A general knowledge of developments in this area at national, Regional and international levels will also form a part of the course. Case studies based on an actual wind turbine will be used to enhance knowledge gained in the theoretical part of the course.
+
+PH414           Photovoltaic Power Generation                              
+
+Prerequisites: Admission into the Postgraduate Programme
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+The importance of renewable energy technologies in making electricity accessible to millions of people around the world and in mitigation of global warming cannot be overemphasised. The direct conversion of solar energy into electricity offers attractive prospects for harnessing this major renewable resource. This course introduces the students to the science and technology of photovoltaic devices (solar cells). The design and simulation of RE systems incorporating solar cells will form a major component of the course.
+
+PH416           Biomass & Hydropower                                             
+
+Prerequisites: Admission into the Postgraduate Programme
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+The aim of this course is to provide an in-depth introduction to the utilisation of two important renewable energy resources: biomass and hydro-energy. The course also aims to provide a broad introduction to the assessment and implementation of renewable energy projects in general, and their relevance to sustainable development. The course considers the processes of conversion of solid biomass through pyrolysis, gasification, fermentation and digestion, and the use of solid biomass in thermal power generation and liquid biofuels in transportation. It then presents an overview of the principles and technology employed in the generation of electricity from hydrological resources. The process of commissioning large energy projects is outlined, and a brief introduction is provided of the significance of renewable energy policies and institutional frameworks.
+
+PH420           Research Project in Physics                                       
+
+Prerequisites: Admission into the Postgraduate Programme
+
+Semester 1: F at L                                                            Semester 2: F at L
+
+This course is designed to allow students to develop their knowledge of scientific research techniques through a supervised research project. The students will formulate and investigate a problem in consultation with a physics staff member. The project would normally involve background study, laboratory/field measurements and data analysis. A final report, viva-voce, and a seminar are the integral components of assessment.
+
+PH421           Electronics, Active Devices                                                                                        
+
+Prerequisites: Admission into the Postgraduate Programme
+
+Semester 1: Not offered                                                Semester 2: Not offered
+
+This course considers electronic circuit design techniques and scientific measurements. It builds upon a basic knowledge of electronics, taking the student through to a reasonable level of design proficiency. Circuit intuition and a systems approach to design are emphasised. Topics covered include circuit design, analogue ICs, A-to-D and D-to-A conversion, interfacing, feedback, transducers and instrumentation.
+
+PH600F         Physics SRP (Full-Time)                                                                                                
+
+PH600P         Physics SRP (Part-Time)                                                                                               
+
+ PH700F         Physics Master’s Thesis (Full-Time)                                                                         
+
+ PH700P         Physics Master’s Thesis – (Part-Time)                                                                     
+
+PH750F         Physics DRP (Full-Time)                                                                       
+
+PH750P         Physics DRP (Part-Time)                                                                      
+
+PH800F         Physics PhD Thesis (Full – Time)                                                                               
+
+PH800P         Physics PhD Thesis (Part-Time)                                                           
+
+SC400            Research Methods                                                       
+
+Prerequisites: Admission into Postgraduate Programme
+
+Semester 1: F at L & LTK                                                Semester 2: Not offered
+
+Research methods is an essential component of study at the postgraduate level. This course introduces the concepts and principles of research and is a core course for all students studying at postgraduate level within the School. Research Methods is taught by an interdisciplinary team of academic staff drawn from the school. The course includes: what it means to be a postgraduate student; the development and application of the scientific method; USP research policy and ethics requirements; School research structure and research application procedures; School’s research groups; project planning, preparation and use of lab notebooks; using web of knowledge; critical review of research papers; how to write scientific papers, posters and present talks; subject-specific research methods. The course may be offered in second semester. All students registering in Postgraduate programmes are required, in their first semester of studies, to complete 14.5 hours of Information Research Skills conducted by the Library.
+
+ST130            Basic Statistics                                                               
+
+Prerequisites: Year 12/Form 6 Mathematics
+
+Semester 1: F at L and O at C                                       Semester 2: F at L and O at C
+
+Cannot be credited with ST131 or EC203. This is a service course designed to introduce students to statistics as a methodology for the collection, summarisation and interpretation of data. It is aimed at students from science or social science who are not majoring in Mathematics with Statistics Emphasis. Topics covered include descriptive statistics, measures of location and dispersion, an introduction to probability concepts, the binomial and normal distributions, sampling distributions, parameter estimation and hypothesis testing, simple and multiple linear regression, design and analysis of experiments, elements of sampling. The course includes the use of a statistical software package.
+
+ST131            Introduction to Statistics                                           
+
+Prerequisites: Year 13/Form 7 Mathematics or (MAF11 and MAF12)
+
+Semester 1: F at L and O at C                                       Semester 2: Not offered
+
+Cannot be credited together with ST130. This course emphasises descriptive statistics and basics of probability theory that includes descriptive statistics: collection and organisation of data; measures of positions, central tendency and dispersion; probability: probability measures, independent events, conditional probability, random variables and their mean and variance; binomial and normal distributions, normal approximation to binomial; hypothesis testing: sampling distributions, sampling distribution of means, t-distribution, chi-square distribution; tests of significance for means, proportions, goodness of fit, association of attributes and homogeneity of proportions; correlation and regression.
+
+ST403            Advanced Mathematical Programming                 
+
+Prerequisites: MA341
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course emphasises various optimisation techniques to solve the problems that could be expressed as mathematical programming problems. Topics covered: linear programming, duality in linear programming, post-optimality (or sensitivity) analysis, integer programming, transportation problem, transhipment problem, and linear fractional programming.
+
+ST420            Special Studies in Statistics                                       
+
+Prerequisites: Admission into Postgraduate Programme
+
+Semester 1: Not offered                                                Semester 2: Not offered
+
+This course provides students with an opportunity to study an area of mathematics not available in the current postgraduate programme. The topic offered will depend on staff availability. Further details are available from the School of Computing, Information and Mathematical Sciences.
