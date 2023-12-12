@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@google-ai/generativelanguage": "^0.2.1",
+    "@huggingface/inference": "^2.6.4",
+    "@supabase/supabase-js": "^2.39.0",
     "langchain": "^0.0.204",
     "next": "14.0.4",
     "react": "^18",

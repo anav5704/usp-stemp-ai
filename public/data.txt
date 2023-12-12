@@ -1,0 +1,58 @@
+SOFTWARE ENGINEERING 200 LEVEL COURSES
+ 
+CS211            Computer Organisation                                              
+
+Prerequisites: CS111
+
+Semester 1: F at L and B at C                                       Semester 2: Not offered
+
+This course provides an overview of computer systems and architecture. It covers  data representation, digital logic circuits, micro architecture and instruction set architecture, operating systems, assembly and machine language programme.
+
+CS214            Design & Analysis of Algorithms                              
+
+Prerequisites: CS112
+
+Semester 1: Not offered                                                Semester 2: F at L and B at C
+
+This course provides an overview of the various fundamental algorithms like dynamic programming, divide and conquer and greedy approach used in sorting, searching and optimization problems. The key issues in algorithms like choice of appropriate data structures, time complexity and computability are also discussed in the course.
+
+CS215            Computer Communications & Management
+
+Prerequisites: CS111 and (CS150 for BNS programme)
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course introduce the fundamental principles ofcomputer  communication and networking, with a focus on the network interface and Internet layers of the TCP/IP protocol stack. This course also covers access control, wireless network components, routing protocols, subnetting, network security and management.
+
+CS218            Mobile Computing                                                       
+
+Prerequisites: CS112
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+Mobile Computing is a growing trend due to the increasing number and usage of devices that can be used to access information regardless of location. This course provides a comprehensive overview of mobile computing systems focusing on mobile telephony, data networks, wireless networks and infrastructure and the design and implementation of mobile computing applications.  This course will also provide students hands-on experience on at least one mobile application development framework.
+
+CS219            Cloud Computing                                                          
+
+Prerequisites: CS112
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+The course deals with cloud computing and its various services. Issues such as privacy, security and common standards and user accessibility in cloud computing will also be discussed. Cloud deployment models, shared computing resources like software, hardware infrastructure and platform to users on demand are included in this course.
+
+CS230            Requirements Engineering                                        
+
+Prerequisites: CS111 and (CS140 for BSE programme)
+
+Semester 1: F at L                                                            Semester 2: Not offered
+
+The course would introduce the various requirement elicitation techniques used in software engineering. The requirement identification, analysis, validation and prioritisation will also be discussed in the course. The students will prepare software requirement specification and perform initial software design in the course. Upon completion of the course student should be able to identify suitable requirement gathering techniques suitable for software projects.
+
+CS241            Software Design & Implementation                       
+
+Prerequisites: CS112 and CS230
+
+Semester 1: Not offered                                                Semester 2: F at L
+
+This course focuses on the design & implementation phases of the software development lifecycle. Basic concepts of design, testing, and enabling techniques will be reviewed. Approaches to ensuring quality in design will be emphasized as well as the need for systematic documentation. The implementation section will be covered during the laboratory sessions using a project based on an appropriate software development methodology. This will enable both large and smaller scale methodologies to be covered.
+
